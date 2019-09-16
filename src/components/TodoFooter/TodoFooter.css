@@ -1,0 +1,23 @@
+.footer p{
+    display: inline;
+    font-size: 14px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between
+}
+
+.clear{
+    cursor: pointer;
+}
+.footer a{
+    border:1px solid white;
+    padding: 2px;
+}
+.footer a:hover{
+    border:1px solid red;
+    padding: 2px;
+    border-radius: 5px;
+
+}

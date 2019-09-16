@@ -1,0 +1,23 @@
+.strike{
+    text-decoration: line-through
+}
+.todoLister{
+    border:1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+    
+}
+/* .todoLister{
+    padding: 6px 6px 6px 60px;
+} */
+.todoLister p{
+    font-size: 20px;
+    text-align: left;
+    width:100%
+}
+.todoLister button{
+    font-size: 24px;
+    border:none;
+    background: none
+}
